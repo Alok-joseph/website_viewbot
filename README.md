@@ -23,7 +23,7 @@ run the project
 
 
 ## 🚀 About Me
-I'm a Designer Who codes
+I'm a Coder who designs
 
 ## 🛠 Skills
 Python
