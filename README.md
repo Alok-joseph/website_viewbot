@@ -21,6 +21,7 @@ run the project
 - [@ALok-joseph](https://www.github.com/Alok-joseph)
 
 
-
+## 🚀 About Me
+I'm a Designer Who codes
 
 
